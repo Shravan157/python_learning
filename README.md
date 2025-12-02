@@ -1,7 +1,1 @@
-Welcome to Shravan's  Python chronicles
-
-This is my journey from being a noob to a सर्प मित्र  🐍 👀
-
-Real talk: if you're trying to land a dev job in upcoming future  and you don't know Python + AI/ML, you're absolutely fucked. Straight up. Every job posting wants that shit, every company needs that shit, and you're just not competitive without it. It's not about passion it's about survival in this goddamn market.
-
-..............
+Python_learning is a github repo for daily python commits as i walk through fundamentals to advanced concepts of python , AIML and DS ....
