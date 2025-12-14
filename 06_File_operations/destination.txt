@@ -1,0 +1,4 @@
+This is the source file where
+the read operation is performed
+now this content will be visible in
+the destination file

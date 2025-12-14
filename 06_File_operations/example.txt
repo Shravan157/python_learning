@@ -1,0 +1,7 @@
+write this statement 
+Add this as well 
+Append operation taking place 
+The document will not be overwrittenFirst line
+second line 
+third line 
+fourth line 
