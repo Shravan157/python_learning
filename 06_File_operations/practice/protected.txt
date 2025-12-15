@@ -1,0 +1,6 @@
+This is a protected file for testing.
+You can read this content if you have the right permissions.
+Line 3: Testing file read functionality
+Line 4: This file can be used with the read_protected_file() function
+Line 5: Add more content as needed for your tests
+End of file.

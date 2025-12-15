@@ -1,0 +1,28 @@
+{
+    "employees": [
+        {
+            "name": "Shravan",
+            "age": 22,
+            "department": "IT",
+            "salary": 45000
+        },
+        {
+            "name": "Aarav",
+            "age": 25,
+            "department": "HR",
+            "salary": 38000
+        },
+        {
+            "name": "Meera",
+            "age": 29,
+            "department": "Finance",
+            "salary": 52000
+        },
+        {
+            "name": "Rohit",
+            "age": 31,
+            "department": "Marketing",
+            "salary": 48000
+        }
+    ]
+}

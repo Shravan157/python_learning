@@ -1,0 +1,10 @@
+HI I AM SHRAVAN
+I AM STUDYING PYTHON PROGRAMMING
+THIS IS ASSIGNMENT ON FILE OPERATION
+This is a random text
+inside the demo
+file for test purpose
+
+This is assignment .txt file
+This is also for assighment
+purpose for testing purpose
